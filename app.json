@@ -1,0 +1,17 @@
+{
+  "name": "fleetmobile",
+  "displayName": "fleetmobile",
+  "expo": {
+    "name": "fleetmobile",
+    "slug": "fleetmobile",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
